@@ -1,0 +1,18 @@
+{
+  "name": "myunittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Himanshi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "mocha": "^9.1.2"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
